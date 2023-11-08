@@ -5,7 +5,7 @@ Within this colleciton I have; installations, configurations, problem solutions 
 This forms the inital articles that get written up more formally with images into blog posts on my website: https://knowledgeaddict.co.uk/
 
 ## Content Map:
-- ![[Automation]]
+- [Automation](https://github.com/SamSwinson/KnowledgeBase/tree/main/Automation)
   - Ansible
 - Cloud
 - Cyber Security
