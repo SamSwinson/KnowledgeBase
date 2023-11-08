@@ -1,0 +1,5 @@
+- computers want tasks to complete, they are waiting to be told what to do
+- write programs that can solve a problem you have
+- utilise the internal resources inside the system to carry out a function for an end user
+- Code: - a sequence of stored instructions
+        - computer carries out literal instructions - computers can't compensate for misspelling
