@@ -1,0 +1,16 @@
+<people>
+  <persons>
+    <user x="1">
+      <name>Sam</name>
+      <id>001</id>
+      <email>sam.swinson@msn.com</email>
+      <domain>msn.com</domain>
+    </user>
+    <user x="2">
+      <name>Bob</name>
+      <id>002</id>
+      <email>bob.swinson@hotmail.com</email>
+      <domain>hotmail.com</domain>
+    </user>
+  </persons>
+</people>

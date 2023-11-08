@@ -1,0 +1,10 @@
+{
+  "name" : "Sam",
+  "phone" : {
+    "type" : "int1",
+    "number" : "+44 7745355080"
+  },
+  "email" : {
+    "hide" : "yes"
+  }
+}
